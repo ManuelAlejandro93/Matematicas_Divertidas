@@ -453,9 +453,9 @@ export const App: React.FC = () => {
         <section className='bg-[#2e3134] text-white py-16 px-8 text-center'>
           <h3 className='text-2xl font-bold mb-6 text-[#ffe08a]'>Creadores</h3>
           <ul className='space-y-3 text-lg'>
-            <li>María Guadalupe López García</li>
-            <li>Carlos Eduardo Martínez Rivera</li>
-            <li>Sofía Valentina Hernández Pérez</li>
+            <li>Maira Gazo</li>
+            <li>Santiago Realpe</li>
+            <li>Manuel Pinzón</li>
           </ul>
         </section>
 
