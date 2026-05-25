@@ -216,16 +216,12 @@ export const App: React.FC = () => {
           </h2>
           <div className='max-w-4xl mx-auto aspect-video bg-gray-200 rounded-3xl overflow-hidden shadow-xl mb-8'>
             <iframe
-              width='560'
-              height='315'
-              src='https://www.youtube.com/embed/ZWzui3f_4wQ?si=mj_Ghxuhc5cmgK12'
-              title='YouTube video player'
-              frameborder='0'
-              allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
-              referrerpolicy='strict-origin-when-cross-origin'
-              allowfullscreen
-            ></iframe>
-          </div>
+              className='w-full h-full'
+              src='https://www.youtube.com/embed/dQw4w9WgXcQ'
+              title='Presentación del proyecto'
+              allowFullScreen
+            />
+          </div>{' '}
           <p className='text-lg max-w-2xl mx-auto bg-white p-8 rounded-2xl shadow border border-[#c1c7d0]'>
             Somos un equipo de estudiantes que creamos este juego para ayudar a
             los niños a aprender matemáticas sin aburrirse.
