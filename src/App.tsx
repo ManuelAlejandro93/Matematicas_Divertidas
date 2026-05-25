@@ -217,7 +217,7 @@ export const App: React.FC = () => {
           <div className='max-w-4xl mx-auto aspect-video bg-gray-200 rounded-3xl overflow-hidden shadow-xl mb-8'>
             <iframe
               className='w-full h-full'
-              src='https://www.youtube.com/embed/dQw4w9WgXcQ'
+              src='https://www.youtube.com/embed/ZWzui3f_4wQ?si=EzgJlpoiJ3miX_xD'
               title='Presentación del proyecto'
               allowFullScreen
             />
